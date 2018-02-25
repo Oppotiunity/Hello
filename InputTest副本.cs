@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// 输入测试
 public class InputTest : MonoBehaviour {
 
 	// Use this for initialization
