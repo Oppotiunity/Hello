@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 ------------------------------------++
+
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
 public class PrefabText : MonoBehaviour {
 //	预设体的对象
 	public GameObject myPrefab;
